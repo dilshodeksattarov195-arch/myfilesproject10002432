@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderretch",
+        "uuid": 14365824,
+        "checksum": "20etmq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
